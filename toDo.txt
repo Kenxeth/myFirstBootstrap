@@ -1,0 +1,1 @@
+Decided to make my own modal w/o the use of bootstrap
